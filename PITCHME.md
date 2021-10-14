@@ -7,6 +7,25 @@ paginate: true
 _paginate: false
 ---
 
+# My first [Marp](https://marp.app) slide :smile:
+
+https://hladuvka.github.io/marp-example
+
+$\sum_{k=1}^n k = \frac{1}{2}n(n+1)$
+
+```python
+for i in range (6):
+    pass
+```
+
+What can I do from here:
+
+- [Github](http://github.com/hladuvka/marp-example)
+
+- [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://github.com/hladuvka/marp-example)
+- [View the slides](http://hladuvka.github.io/marp-example)
+
+---
 ![bg](./assets/gradient.jpg)
 
 # <!--fit--> Marp CLI example
