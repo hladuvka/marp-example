@@ -22,8 +22,10 @@ What can I do from here:
 
 - [Github](http://github.com/hladuvka/marp-example)
 
-- [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://github.com/hladuvka/marp-example)
+- [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/hladuvka/marp-example)
 - [View the slides](http://hladuvka.github.io/marp-example)
+
+
 
 ---
 ![bg](./assets/gradient.jpg)
