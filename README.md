@@ -1,6 +1,12 @@
-# Marp CLI example
+# Marp example
+
+## Links
 
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/hladuvka/marp-example)
+
+[view it at githubpages](https://hladuvka.github.io/marp-example)
+
+---
 
 **The good starter example for using [Marp] via [Marp CLI].**
 
