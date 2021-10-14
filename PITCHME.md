@@ -18,13 +18,30 @@ for i in range (6):
     pass
 ```
 
-What can I do from here:
+---
+# URLs for these slides
+
+the repo is named `marp-example`, so the 3 URLs are:
+```
+view:          https://hladuvka.github.io/marp-example 
+github        https://github.com/hladuvka/marp-example
+edit:    https://open.vscode.dev/hladuvka/marp-example
+```
+
+Lert's try:
+
+- view:          https://hladuvka.github.io/marp-example 
+- [!github]        https://github.com/hladuvka/marp-example
+- [![OOOOpen in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/hladuvka/marp-example)
+
+
+---
+
 
 - [Github](http://github.com/hladuvka/marp-example)
 
-- [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/hladuvka/marp-example)
+- 
 - [View the slides](http://hladuvka.github.io/marp-example)
-
 
 
 ---
